@@ -56,7 +56,8 @@ func isOneOf(fl FieldLevel) bool {
 
 ```
 
-![image-20231122203049583](image-20231122203049583.png)
+![image](https://github.com/wtjlovejlj/validator_tool/assets/89171006/a7fdd048-8ebc-4522-a10d-4d104ea0b30f)
+
 
 #### 测试小案例
 
@@ -210,7 +211,8 @@ func getDBFieldName(name string) string {
 
 执行结果
 
-![image-20231124152336637](image-20231124152336637.png)
+![image](https://github.com/wtjlovejlj/validator_tool/assets/89171006/5ad14c31-b3d1-4fdf-a3b5-18a66b790bde)
+
 
 ### 优化的最终版本（添加错误中文翻译器、自定义错误、获取gorm中column字段的值）
 
